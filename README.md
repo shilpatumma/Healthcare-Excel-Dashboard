@@ -15,7 +15,7 @@ This project is an Excel-based dashboard that analyzes healthcare data to provid
 - Charts & Graphs
 
 ## 📷 Dashboard Preview
-!(excel_project.png)
+![Excel Project](excel_project.png)
 
 ## 📁 File Included
 - healthcare excel project.xlsx
