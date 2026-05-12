@@ -66,7 +66,7 @@ This dashboard can be used by:
 
 ## 🔗 About Me
 
-Aspiring Business Analyst with strong skills in data analysis, visualization, and reporting.
+Aspiring Data Analyst with strong skills in data analysis, visualization, and reporting.
 Passionate about turning data into actionable insights.
 
 ---
